@@ -20,5 +20,3 @@ print(myPhones)
 # 清除
 myPhones.clear()
 print(myPhones)
-
-#这是 github demo 5
