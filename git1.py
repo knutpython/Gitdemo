@@ -22,3 +22,4 @@ myPhones.clear()
 print(myPhones)
 
 #Dictionary练习1
+能不能pull？
