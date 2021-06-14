@@ -24,3 +24,4 @@ print(myPhones)
 #Dictionary练习1
 能不能pull？
 能！
+能不能push？
