@@ -20,3 +20,5 @@ print(myPhones)
 # 清除
 myPhones.clear()
 print(myPhones)
+
+#Dictionary练习
